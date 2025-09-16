@@ -47,7 +47,7 @@
     "fast-xml-parser": "^5.0.8",
     "framer-motion": "^12.4.7",
     "h3": "^1.15.1",
-    "iconv-lite": "^0.6.3",
+    "iconv-lite": "^0.7.0",
     "jose": "^6.0.8",
     "jotai": "^2.12.1",
     "md5": "^2.3.0",
